@@ -57,10 +57,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I design and code things.</h3>;
   const four = (
     <p>
-      I'm Produc Designer who specializes in Designing and Developing
-      User friendly systems and intuitive experiences. Currently, I'm an UI/UX Designer at{' '}
-      <a href="https://flexisaf.com/">Flexisaf EduSoft</a> focused on building accessible,
-      human-centered products.
+      I'm Product Designer who specializes in Designing and Developing
+      User friendly systems and intuitive experiences. Currently, I'm a Senior UI/UX Designer at{' '}
+      <a href="https://www.ehealthafrica.org/">eHealth Africa</a> focused on building accessible,
+      human-centered and data-driven products.
     </p>
   );
   const five = (
