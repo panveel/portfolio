@@ -147,10 +147,6 @@ const About = () => {
               best of usability standards as well as creating reusable design system components to
               speed up development time.
             </p>
-            {/* Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://theroothub.com/">Technology hubs</a>,{' '}
-              <a href="http://nhubnigeria.com/">Digital Accelerator systems</a>,{' '}
-              <a href="https://desevens.digital/">a software consulting company</a>,{' '} */}
             <p>
               I am currently building accessible &amp; stronger health systems, inclusive products
               and user centeric digital experiences at <a href="https://www.ehealthafrica.org/">eHealth Africa</a>
