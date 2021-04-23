@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Wootlab'
+cover: './wootlab.png'
+github: ''
+external: 'https://www.figma.com/proto/h5sbEGwj5SdUE81bJiDL3t/Wootlab?node-id=27%3A45&scaling=scale-down-width'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Figma
+  - Whimsical
+  - UX Research
+  - UX Design
+  
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Talent web service platform connecting talent with companies
